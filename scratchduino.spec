@@ -1,6 +1,6 @@
 Name:           scratchduino
 Version:        0.1
-Release:        6.1
+Release:        6.2
 Group:          Education
 License:        GPLv2
 Summary:        Scratch mod to interact with ScratchDuino.Roboplatform
