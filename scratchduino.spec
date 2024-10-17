@@ -4,7 +4,7 @@ Release:        1
 Group:          Education
 License:        GPLv2
 Summary:        Scratch mod to interact with ScratchDuino.Roboplatform
-Url:            http://scratchduino.com
+Url:            https://scratchduino.com
 Source:         %{name}_%{version}.orig.tar.bz2
 BuildArch:      noarch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
